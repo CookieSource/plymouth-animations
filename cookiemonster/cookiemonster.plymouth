@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=cookiemonster
+Description=An animation where cookie monster endlessly eats a cookie
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/cookiemonster
+ScriptFile=/usr/share/plymouth/themes/cookiemonster/cookiemonster.script
